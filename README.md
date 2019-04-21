@@ -1,2 +1,2 @@
-# dstest-repo
+# datasciencecoursera
 Data Science Project
